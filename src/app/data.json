@@ -1,6 +1,6 @@
 {
   "products":[
-  { "id": 1, "name": "베이직 반팔 티셔츠", "price": 19900, "image": "tshirt.jpg" },
+  { "id": 1, "name": "베이직 티셔츠", "price": 19900, "image": "tshirt.jpg" },
   { "id": 2, "name": "와이드 데님 팬츠", "price": 45900, "image": "denim.jpg" },
   { "id": 3, "name": "오버핏 후드 집업", "price": 52900, "image": "hoodzip.jpg" },
   { "id": 4, "name": "러닝 스니커즈", "price": 68900, "image": "sneakers.jpg" },
@@ -20,4 +20,4 @@
   { "id": 18, "name": "조거 팬츠", "price": 34900, "image": "jogger.jpg" },
   { "id": 19, "name": "스포츠 반팔 티", "price": 18900, "image": "sportstshirt.jpg" }
 ]
-}
+} 
